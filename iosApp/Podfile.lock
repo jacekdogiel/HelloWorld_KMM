@@ -1,0 +1,16 @@
+PODS:
+  - HelloWorldSDK (1.0)
+
+DEPENDENCIES:
+  - HelloWorldSDK (from `../HelloWorldSDK`)
+
+EXTERNAL SOURCES:
+  HelloWorldSDK:
+    :path: "../HelloWorldSDK"
+
+SPEC CHECKSUMS:
+  HelloWorldSDK: eb3bd35fc2efbf49f889ddb25ef92a03011e4893
+
+PODFILE CHECKSUM: 4f36cc66589e94558f68cb8819b337cb28222a1f
+
+COCOAPODS: 1.11.3
